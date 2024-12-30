@@ -38,8 +38,11 @@ Certainly, here are the step-by-step instructions for setting up and running the
    ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/df102d55-1e43-482f-b283-c89154a51169)
 
 
-   
-
- 
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
+
+
+Live Demo
+The website is deployed and live on Render. You can access it here:
+[Visit the Website]([https://example.onrender.com](https://spam-classifier-5ft4.onrender.com))
+
