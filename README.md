@@ -32,10 +32,10 @@ Certainly, here are the step-by-step instructions for setting up and running the
    -and wait 2-3 mint after that your website will be published.
    -https://spam-classifier-d15y.onrender.com/
 
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/844642ad-2c2d-4ede-88ca-cd19206cf233)
+   ![image](https://github.com/vishwaspw/Spam-Classifier/assets/IMAGE1)
 
    The output:
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/df102d55-1e43-482f-b283-c89154a51169)
+   ![image](https://github.com/vishwaspw/Spam-Classifier/assets/IMAGE2)
 
 
    
