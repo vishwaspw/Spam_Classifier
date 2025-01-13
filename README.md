@@ -25,24 +25,21 @@ Certainly, here are the step-by-step instructions for setting up and running the
    -go to this website: https://dashboard.render.com/web
    -then click on new and choose web serivces
    -choose this :Build and deploy from a Git repository and click on next
-   -then in settings :![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/7d0493d1-7e0a-46cb-b15e-e3f45f006d1d)
+   -then in settings :![image](https://github.com/vishwaspw/Spam_Classifier/blob/main/assets/IMAGE3.png)
 
 
 6. **So click on manual Deploy and select deploy with latest commit**
    -and wait 2-3 mint after that your website will be published.
    -https://spam-classifier-d15y.onrender.com/
 
-   ![image](https://github.com/vishwaspw/Spam-Classifier/assets/IMAGE1)
+   ![image](https://github.com/vishwaspw/Spam_Classifier/blob/main/assets/IMAGE1.png)
 
    The output:
-   ![image](https://github.com/vishwaspw/Spam-Classifier/assets/IMAGE2)
+   ![image](https://github.com/vishwaspw/Spam_Classifier/blob/main/assets/IMAGE2.png)
 
 
+   
+
+ 
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
-
-## Live Demo
-The website is deployed and live on Render. You can access it here:  
-[Visit the Website](https://spam-classifier-5ft4.onrender.com)
-
-
