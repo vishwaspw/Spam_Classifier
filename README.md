@@ -38,8 +38,11 @@ Certainly, here are the step-by-step instructions for setting up and running the
    ![image](https://github.com/vishwaspw/Spam-Classifier/assets/IMAGE2)
 
 
-   
-
- 
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
+
+## Live Demo
+The website is deployed and live on Render. You can access it here:  
+[Visit the Website](https://spam-classifier-5ft4.onrender.com)
+
+
