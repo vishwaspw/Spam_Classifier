@@ -1,6 +1,6 @@
 # SmS_Spam_Classifier
 
-Certainly, here are the step-by-step instructions for setting up and running the application using a virtual environment for Python 3.9:
+The step-by-step instructions for setting up and running the application using a virtual environment for Python 3.9:
 
 1. **Setup Virtual Environment**:
    - Open the terminal.
@@ -37,9 +37,5 @@ Certainly, here are the step-by-step instructions for setting up and running the
    The output:
    ![image](https://github.com/vishwaspw/Spam_Classifier/blob/main/assets/IMAGE2.png)
 
-
-   
-
- 
 
 By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
